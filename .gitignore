@@ -1,2 +1,5 @@
 main
 *.txt
+target
+Cargo.toml
+Cargo.lock
